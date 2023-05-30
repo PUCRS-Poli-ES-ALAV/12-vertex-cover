@@ -11,7 +11,7 @@ Uma cobertura por vértices (= vertex cover) de um grafo, ou simplesmente cobert
 
 A figura abaixo mostra um exemplo de cobertura de vértices:
 
-![Exemplo](https://github.com/PUCRS-Poli-ES-ALAV/12-vertex-cover/images/ex-grafo-cobertura-grafos.jpg)
+![Exemplo](https://github.com/PUCRS-Poli-ES-ALAV/12-vertex-cover/blob/main/images/ex-grafo-cobertura-grafos.jpg)
 
 ## ALgoritmo: Cobertura por vértices
 
