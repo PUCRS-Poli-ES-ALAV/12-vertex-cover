@@ -17,7 +17,7 @@ A figura abaixo mostra um exemplo de cobertura de vértices:
 
 A algortimos abaixo computa a cobertura de vértices C de um grafo G.
  
-![Algortimo](https://github.com/PUCRS-Poli-ES-ALAV/12-vertex-cover/images/algor-cobertura-vertices.jpg)
+![Algortimo](https://github.com/PUCRS-Poli-ES-ALAV/12-vertex-cover/blob/main/images/algor-cobertura-vertices.jpg)
 
 
 
