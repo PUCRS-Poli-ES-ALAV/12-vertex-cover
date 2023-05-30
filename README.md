@@ -8,3 +8,17 @@ Queremos determinar o menor número de guardas capaz de vigiar todos os corredor
 Dizemos que um conjunto C de vértices de um grafo cobre uma aresta vw do grafo se v pertence a C ou w pertence a C (ou ambos).
 
 Uma cobertura por vértices (= vertex cover) de um grafo, ou simplesmente cobertura, é um conjunto de vértices que cobre todas as arestas. Em outras palavras, uma cobertura é um conjunto de vértices que contém pelo menos uma das pontas de cada aresta.
+
+A figura abaixo mostra um exemplo de cobertura de vértices:
+
+![Exemplo] (images/ex-grafo-cobertura-grafos.jpg)
+
+## ALgoritmo: Cobertura por vértices
+
+A algortimos abaixo computa a cobertura de vértices C de um grafo G.
+ 
+![Algortimo] (images/algor-cobertura-vertices.jpg)
+
+
+
+
