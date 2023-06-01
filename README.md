@@ -13,11 +13,17 @@ A figura abaixo mostra um exemplo de cobertura de vértices:
 
 ![Exemplo](https://github.com/PUCRS-Poli-ES-ALAV/12-vertex-cover/blob/main/images/ex-grafo-cobertura-grafos.jpg)
 
-## ALgoritmo: Cobertura por vértices
+## Algoritmo: Cobertura por vértices
 
 A algortimos abaixo computa a cobertura de vértices C de um grafo G.
  
 ![Algortimo](https://github.com/PUCRS-Poli-ES-ALAV/12-vertex-cover/blob/main/images/algor-cobertura-vertices.jpg)
 
-1. Utilizando sua classe grafo implementada/recuperada na aula anterior, implemente e teste o algoritmo acima, para grafos conexos com 7, 12 e 20 nodos, 
+##Atividade 1
+
+1. Utilizando sua classe grafo implementada/recuperada na aula anterior, implemente e teste o algoritmo acima, para grafos conexos com 7, 12 e 20 nodos.
+
+##Atividade 2
+
+1. 
 
