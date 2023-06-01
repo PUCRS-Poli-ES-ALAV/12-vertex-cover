@@ -19,11 +19,15 @@ A algortimos abaixo computa a cobertura de vértices C de um grafo G.
  
 ![Algortimo](https://github.com/PUCRS-Poli-ES-ALAV/12-vertex-cover/blob/main/images/algor-cobertura-vertices.jpg)
 
-##Atividade 1
+## Atividade 1
 
 1. Utilizando sua classe grafo implementada/recuperada na aula anterior, implemente e teste o algoritmo acima, para grafos conexos com 7, 12 e 20 nodos.
 
-##Atividade 2
+## Atividade 2
 
-1. 
+1. Adapte o algoritmo anterior para gerar diferentes soluções, iniciando em cada um dos nodos da lista de nodos, e selecionar a melhor entre elas.
+Esta variação do algoritmo gera solução ótima?
 
+## Atividade 3
+
+1. Como podemos adpatar o algortimo para que seja gerada uma solução ótima? Implemente este algoritmo. Qual o custo (a complexidade) desta solução?
